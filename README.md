@@ -8,5 +8,7 @@
     - niet inloggen, als je gebruik maakt van een publiek netwerk.
 ## Man In The Browser Attack
 - Wat zijn de overeenkomsten met een Man In the Middle attack
+    - beiden halen de gegevens die je verstuurd op.
 - Wat zijn de verschillen met een Man In the Middle attack
+    - de Man in The Browser valt aan door middel van zwakheden in de beveiliging van de browser.
  
